@@ -6,4 +6,4 @@ change a bmp file style to another bmp style
 ## 3
 change a bmp file style back
 ## 4
-putting some message in a bmg file, and get them back(using EMD)
+putting some message in a bmp file, and get them back(using EMD)
